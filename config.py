@@ -1,3 +1,3 @@
-BOT_TOKEN = "6966620845:AAEs3MwLm_D78XtwAWeG-zA0ZsgE0qoCv3A"
+BOT_TOKEN = " " # Fill in bot token
 
 DB_NAME = "staff.db"
